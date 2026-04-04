@@ -1,5 +1,5 @@
 ### Resources -->
- https://www.mathworks.com/help/matlab/ref/fft.html, https://in.mathworks.com/matlabcentral/answers/565580-amplitude-modulation-demodulation-signal, https://in.mathworks.com/help/signal/ref/butter.html, https://in.mathworks.com/help/dsp/ref/iirnotch.html, 
+ https://www.mathworks.com/help/matlab/ref/fft.html, https://in.mathworks.com/matlabcentral/answers/565580-amplitude-modulation-demodulation-signal, https://in.mathworks.com/help/signal/ref/butter.html, https://in.mathworks.com/help/dsp/ref/iirnotch.html, https://in.mathworks.com/help/signal/ref/filtfilt.html
 
 #### SOLVED USING MATLAB 
 
