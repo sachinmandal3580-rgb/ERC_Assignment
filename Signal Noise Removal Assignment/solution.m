@@ -3,7 +3,6 @@
 N = length(x);
 t = (0:N-1) / Fs;
 
-% STAGE-1
 %Time Domain Frequency waveform 
 figure;
 plot(t, x);
@@ -11,7 +10,7 @@ xlabel('Time (s)'); ylabel('Amplitude');
 title('Stage 1 — Corrupted Signal: Time Domain');
 grid on;
 
-%STAGE-2
+%STAGE-1
 %FFT
 X  = fft(x, N);
 f  = (0:N-1) * (Fs/N);
