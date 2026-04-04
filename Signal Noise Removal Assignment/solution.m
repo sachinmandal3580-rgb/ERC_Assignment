@@ -106,6 +106,4 @@ sound(x_clean, Fs);
 audiowrite('Recovered_signal.wav',x_clean,Fs);
 disp('Sucessfully Saved!')
 
-%STAGE-4
-
 
